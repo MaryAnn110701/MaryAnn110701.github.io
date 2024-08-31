@@ -152,6 +152,7 @@ nav ul li a:hover {
         background-image: url("https://res.cloudinary.com/diizaxtg3/image/upload/v1725045283/Background_Android_ntjd8h.jpg");
         background-repeat: no-repeat;
         background-size: cover;
+        background-position: fit;
     }
     
     .nav-buttons {
